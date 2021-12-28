@@ -1,0 +1,8 @@
+build/
+*.bin
+*.elf
+*.out
+*.bak
+dd*
+priv/
+tmp/
