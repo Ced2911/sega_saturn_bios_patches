@@ -1,5 +1,6 @@
 #/bin/bash
 set -v
+set -e
 bios_file="Sega Saturn BIOS v1.00 (1994)(Sega)(JP)(M6)"
 
 mkdir ./build -p

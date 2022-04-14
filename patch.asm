@@ -7,3 +7,4 @@ start:
 
 # patchs start
 .include "ip_bin_check_bypass.asm"
+.include "bootanim_custom.asm"
